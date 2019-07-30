@@ -46,7 +46,7 @@ body{
   background-position: right;
 }
 
-p.parrafote
+.parrafote
 {
   color:green;
   /*text-align:center;*/
@@ -54,12 +54,12 @@ p.parrafote
 
 p.parrafito
 {
-  color:red;
+  color:orange;
 }
-/*h2
-{
 
-  color:green;
+#headersito
+{
+  color :gray;
 
 }
 
